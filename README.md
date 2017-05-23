@@ -38,3 +38,7 @@ Based on 'Basic Bean Configuration' at https://www.udemy.com/javaspring/learn/v4
 ## Tutorial-18
 
 - Arbitrary Maps as Bean Properties
+
+## Tutorial-19
+
+- Autowiring by Type
