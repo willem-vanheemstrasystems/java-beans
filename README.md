@@ -23,3 +23,18 @@ Based on 'Basic Bean Configuration' at https://www.udemy.com/javaspring/learn/v4
 
 - Setting List Properties
 
+## Tutorial-15:
+
+- Lists of Beans
+
+## Tutorial-16:
+
+- Inner Beans
+
+## Tutorial-17
+
+- Property Maps
+
+## Tutorial-18
+
+- Arbitrary Maps as Bean Properties
